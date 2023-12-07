@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Caly</string>
+    <string name="add_event">Add Event</string>
+    <string name="hint">hint</string>
+    <string name="enter_title">Enter Title of the Event</string>
+    <string name="add_time">Add Time</string>
+    <string name="add_date">Add Date</string>
+    <string name="repeat_event">Repeat Event</string>
+    <string name="yearly">Yearly</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
